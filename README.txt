@@ -1,7 +1,7 @@
 Author: Abdul Moid Munawar
 Project:2048 Game
 Email: amunawar@u.rochester.edu
-I did not collaborate with anyone on this project
+
 
 How to run:
 My game in build inside one class named gameclass. Execute the class in with a java compiler.
@@ -11,7 +11,6 @@ Instructions of the game are printed at the start of the game. I have made separ
 check if game is won or lost, find max value of array, and print array.
 These are used collectively in my main method according to user inputs to make the game work.
 Detailed comments have been added throughout to explain logic of my methods and lines.
-Additional Features:
 I have added a option to view a summary of the history of the game at the start of every game.
 I have added an option for the user to press y or Y after every loss or win, to play game again.
 I have added a counter that counts how many times elements merge during each valid user move. Entertaining feedback has been added according to counter value to make game 
